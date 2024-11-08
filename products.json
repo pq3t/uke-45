@@ -1,0 +1,94 @@
+
+[
+    {
+      "id": 1,
+      "title": "Sigma",
+      "image": "1.jpg",
+      "description": "Where tf is mario judah",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "title": "Jonk",
+      "image": "2.jpg",
+      "description": "CANNOT LAUGH",
+      "price": 29.99
+    },
+    {
+        "id": 3,
+        "title": "Skibidi",
+        "image": "3.jpg",
+        "description": "POPPOo",
+        "price": 29.99
+      },
+      {
+        "id": 4,
+        "title": "Salsa",
+        "image": "4.jpg",
+        "description": "Halla",
+        "price": 219.99
+      },
+      {
+        "id": 5,
+        "title": "NUGGET",
+        "image": "5.jpg",
+        "description": "есть есть есть",
+        "price": 1999.99
+      },
+      {
+        "id": 6,
+        "title": "Brukt Bil",
+        "image": "6.jpg",
+        "description": "Veldig fin bil",
+        "price": 75929.55
+      },
+      {
+        "id": 7,
+        "title": "Knee surgery",
+        "image": "knee.jpeg",
+        "description": "That feeling",
+        "price": 39.99
+      },
+      {
+        "id": 8,
+        "title": "Jonk",
+        "image": "2.jpg",
+        "description": "CANNOT LAUGH",
+        "price": 29.99
+      },
+      {
+          "id": 9,
+          "title": "Skibidi",
+          "image": "3.jpg",
+          "description": "POPPOo",
+          "price": 29.99
+        },
+        {
+          "id": 10,
+          "title": "Salsa",
+          "image": "4.jpg",
+          "description": "Halla",
+          "price": 219.99
+        },
+        {
+          "id": 11,
+          "title": "NUGGET",
+          "image": "5.jpg",
+          "description": "есть есть есть",
+          "price": 1999.99
+        },
+        {
+          "id": 12,
+          "title": "Brukt Bil",
+          "image": "6.jpg",
+          "description": "Veldig fin bil",
+          "price": 75929.55
+        },
+        {
+            "id": 13,
+            "title": "Savesta",
+            "image": "7.jpg",
+            "description": "Stram Kar",
+            "price": 15929.55
+          }
+  ]

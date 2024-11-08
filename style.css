@@ -1,0 +1,59 @@
+body {
+  background-image: url(img/bg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#navbtn {
+  padding: 5px;
+  border-radius: 10px;
+  border-style: groove;
+
+}
+
+.card {
+  border-radius: 8px;
+  background-color: rgba(218, 218, 218, 0.733);
+  color: rgb(36, 36, 36);
+  width: 205px;
+  padding: 8px;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(196, 196, 196, 0.137), 0 6px 20px 0 rgba(0, 0, 0, 0.158);
+  text-align: center;
+}
+
+@keyframes card-animation {
+  0%   {background-color: red;}
+  20%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  80%  {background-color: green;}
+  100% {background-color: red;} 
+}
+
+.rotatING {
+  transform: rotate3d(0, 1, 0, 60deg);
+  perspective: 800px;
+}
+
+.image {
+  border-radius: 6px;
+  width: 140px;
+}
+
+.btn {
+  color: lightblue;
+  animation-iteration-count: infinite;
+  animation-name: card-animation;
+  animation-duration: 10s;
+  animation-timing-function: ease-in-out;
+  padding: 11px;
+  border-radius: 8px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(205px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
